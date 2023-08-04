@@ -28,3 +28,5 @@ A simple cli tool for ssh login bruteforcing
 
 # Working in linux:
 
+
+# The found credentials will be saved in credentials.txt
