@@ -28,6 +28,6 @@ A simple cli tool for ssh login bruteforcing
 
 # Working in linux:
 
-![Capture](https://github.com/whitebeard19/SSH-Bruter/blob/main/lin.png)
+![Capture](https://github.com/whitebeard19/SSH-Bruter/blob/main/lin.jpeg)
 
 # The found credentials will be saved in credentials.txt
