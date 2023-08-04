@@ -1,3 +1,4 @@
+[![Python Version](https://img.shields.io/badge/python-3.6+-green)](https://www.python.org)
 # SSH-Bruter
 A simple cli tool for ssh login bruteforcing 
 
@@ -23,6 +24,6 @@ A simple cli tool for ssh login bruteforcing
 
 # Working in Windows:
 
-
+![Capture](https://github.com/whitebeard19/SSH-Bruter/main/win.png)
 
 # Working in linux:
