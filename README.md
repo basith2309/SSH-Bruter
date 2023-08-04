@@ -1,6 +1,7 @@
 # SSH-Bruter
 A simple cli tool for ssh login bruteforcing 
 
+
 # Requirements:
       1. Make sure python3 is installed in windows Or in Linux
       2. pip install paramiko
@@ -12,10 +13,16 @@ A simple cli tool for ssh login bruteforcing
      1. For Linux Users:
         a) git clone https://github.com/whitebeard19/SSH-Bruter
         b) cd SSH-Bruter
-        d) python3 ssh_bruter.py
+        c) python3 ssh_bruter.py [host ip] -u [username] -P [password list] 
         
      2. For Windows Users:
         a) Download python3 on windows and install it
         b) git clone https://github.com/whitebeard19/SSH-Bruter
         c) cd SSH-Bruter
-        d) python ssh_bruter.py
+        d) python ssh_bruter.py [host ip] -u [username] -P [password list] 
+
+# Working in Windows:
+
+
+
+# Working in linux:
