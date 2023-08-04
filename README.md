@@ -24,6 +24,7 @@ A simple cli tool for ssh login bruteforcing
 
 # Working in Windows:
 
-![Capture](https://github.com/whitebeard19/SSH-Bruter/main/win.png)
+![Capture](https://github.com/whitebeard19/SSH-Bruter/blob/main/win.png)
 
 # Working in linux:
+
