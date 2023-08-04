@@ -1,5 +1,5 @@
 # SSH-Bruter
-A cli tool for ssh login bruteforcing 
+A simple cli tool for ssh login bruteforcing 
 
 # Requirements:
       1. Make sure python3 is installed in windows Or in Linux
@@ -10,18 +10,12 @@ A cli tool for ssh login bruteforcing
       
 # Installation:
      1. For Linux Users:
-        a) git clone https://github.com/machine1337/sshbrute
-        b) cd sshbrute
-        c) pip install -r requirements.txt
-        d) python3 brute.py
+        a) git clone https://github.com/whitebeard19/SSH-Bruter
+        b) cd SSH-Bruter
+        d) python3 ssh_bruter.py
         
      2. For Windows Users:
         a) Download python3 on windows and install it
-        b) git clone https://github.com/machine1337/sshbrute
-        c) pip install -r requirements.txt
-        d) python brute.py
-# Usage:
-     *. For Linux:
-       1. python3 brute.py
-     *. For Windows:
-      1. python brute.py
+        b) git clone https://github.com/whitebeard19/SSH-Bruter
+        c) cd SSH-Bruter
+        d) python ssh_bruter.py
